@@ -1,0 +1,6 @@
+# customers.txt
+# format: id::name::phone::email::deleted
+1::Test1 Test1::0987654321::test1@gmail.com::false
+2::Test2 Test2::1234567890::test2@gmail.com::false
+3::Test3 3::1122334455::test3@gmail.com::true
+4::Test5 5::0099887766::test5@gmail.com::true
